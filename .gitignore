@@ -1,8 +1,10 @@
-# Generated log files
-logs/
+# Generated log files — ignore contents, keep folder structure
+logs/*
+!logs/.gitkeep
 
-# Backup archives
-backups/
+# Backup archives — ignore contents, keep folder structure
+backups/*
+!backups/.gitkeep
 
 # OS artifacts
 .DS_Store
