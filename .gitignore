@@ -1,0 +1,9 @@
+# Generated log files
+logs/
+
+# Backup archives
+backups/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
